@@ -25,6 +25,7 @@ public/stats.json
 /docker/config
 /docker/user
 /docker/extensions
+/docker/data
 .DS_Store
 public/settings.json
 /thumbnails
@@ -47,3 +48,5 @@ public/css/user.css
 certs/
 test.bat
 /plugins/
+/data
+/default/scaffold
