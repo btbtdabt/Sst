@@ -1,4 +1,4 @@
-{
+li{
     "dependencies": {
         "@agnai/sentencepiece-js": "^1.1.1",
         "@agnai/web-tokenizers": "^0.1.3",
